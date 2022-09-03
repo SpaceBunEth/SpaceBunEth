@@ -1,1 +1,1 @@
-![Banner](banners/github banner v3.png)
+![Banner](banners/github_banner_v3.png)
